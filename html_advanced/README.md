@@ -1,0 +1,1 @@
+This is an amazing README. Will be developing it slowly
